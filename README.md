@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-calor-me-envuelve/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu calor me envuelve](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-envuelve/) |
+| **Get License** | [Get a Licensing Quote for Tu calor me envuelve](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-envuelve/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese ritmo envuelve, me quita la razón
+> Siento el golpe lento rompiendo el callejón
+> Bailamos en las sombras, sube la presión
+> Nena, tú eres fuego, mi mayor tentación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
