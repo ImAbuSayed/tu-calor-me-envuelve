@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu calor me envuelve
+
+This log tracks the cryptographic history and versioning for the song **Tu calor me envuelve** (tu-calor-me-envuelve).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:48:36.614782 | `v1` | `c0f46ea9a1635a625f40eade9a45756543b430372d8b2fb749640e2bf51fa32e` | `d5fbf8bad9c3090765fcee00738c5837c75d49604bde9fd8699b759476e2d2de` | `2026-06-22_tu-calor-me-envuelve-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

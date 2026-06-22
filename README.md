@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-calor-me-envuelve/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tu calor me envuelve](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-envuelve/) |
+| **Get License** | [Request Licensing for Tu calor me envuelve](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-envuelve/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c0f46ea9a1635a625f40eade9a45756543b430372d8b2fb749640e2bf51fa32e` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
